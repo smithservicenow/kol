@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Kolhapuri Shoes</name>
+        <order/>
+        <roles>x_177618_kolhapuri.kolhapuri_shoes_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-04 08:27:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>953a5d400f63030092824e9ce1050ee4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Kolhapuri Shoes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Kolhapuri Shoes" source="x_177618_kolhapuri">185385400f23030092824e9ce1050eab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kolhapuri Shoes">185385400f23030092824e9ce1050eab</sys_scope>
+        <sys_update_name>sys_ui_application_953a5d400f63030092824e9ce1050ee4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-04 08:27:43</sys_updated_on>
+    </sys_ui_application>
+</record_update>
